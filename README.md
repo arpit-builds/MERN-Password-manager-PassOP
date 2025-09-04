@@ -5,6 +5,9 @@ PassOP is a modern, responsive password manager app featuring two implementation
 - **Frontend-only (LocalStorage) version** — stores all data in the browser.
 - **MERN (MongoDB) version** — full-stack with React frontend and Express/MongoDB backend.
 
+## Project-video
+https://github.com/user-attachments/assets/440e51b7-5bb6-47c7-8478-9a28adf311df
+
 ---
 
 ## Table of Contents
