@@ -150,8 +150,3 @@ pass-OP ( mongo-db )        # Full stack MERN app (React + Express/MongoDB)
 - Inspired by learning paths and modern web security practices
 - [React](https://react.dev/), [MongoDB](https://www.mongodb.com/), [Express](https://expressjs.com/), [TailwindCSS](https://tailwindcss.com/), [Vite](https://vitejs.dev/)
 - Icons by [Lordicon](https://lordicon.com/) and custom assets
-
----
-
-## License
-Add license statement here if publishing publicly!
